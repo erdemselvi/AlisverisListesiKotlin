@@ -1,0 +1,2 @@
+# AlisverisListesiKotlin
+Alışveriş Listesi
